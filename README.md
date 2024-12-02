@@ -59,3 +59,17 @@ To modify the initial altitude of the robot:
 - Double-click the "Ground Stop" block.
 
 - Change the "initial altitude" value (default: 2 meters).
+
+## Files Included
+
+- Simulink Models: .slx files for both the basic and extended systems.
+
+- CAD Files: .STL files for the propellers and other components.
+
+- Documentation: This README.md file for reference.
+
+## Notes
+
+- Ensure all dependencies are properly loaded before running the models.
+
+- Modify parameters as described for custom configurations.

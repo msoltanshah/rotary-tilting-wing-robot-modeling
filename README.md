@@ -40,7 +40,7 @@ This model represents a simplified version of the rotary-tilting-wing robot. The
 
 - A ground stop for altitude control.
 
-## How to Run the Simulink
+## How to Run the Simscape/Simulink Model
 
 Ensure the .STL files for the propellers (e.g., SideRotor.stl and TailRotor.stl) in the CAD folder are loaded correctly. Load these files into the appropriate solid blocks, such as PropL for the left rotor. When running the Simulink model, the Mechanic Explorer window will display the system.
 
@@ -62,7 +62,7 @@ To modify the initial altitude of the robot:
 
 ## Files Included
 
-- Simulink Models: .slx files for both the basic and extended systems.
+- Simulink Models: .slx file for Simscape/Simulink systems.
 
 - CAD Files: .STL files for the propellers and other components.
 

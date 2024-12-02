@@ -1,7 +1,5 @@
 # Simscape/Simulink Model of Rotary-Tilting-Wing Robot
 
-This repository provides a brief description of the developed Simscape/Simulink models for a rotary-tilting-wing robot system.
-
 This repository provides the developed Simscape/Simulink models for a rotary-tilting-wing robot system. These models are designed to simulate the dynamics and control of an advanced aerial system, offering a platform to test various control strategies and system behaviors. The models use Simulink’s simulation features and include customizable components for various experimental setups.
 
 <p align="center">
